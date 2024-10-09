@@ -13,7 +13,7 @@ public class Client {
     
     @Value("${client.name}")
     private String name;
-    @Value("${client.lsatname}")
+    @Value("${client.lastname}")
     private String lastname;
 
 }
