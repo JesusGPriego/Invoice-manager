@@ -16,3 +16,9 @@ located in project base folder, execute
 cd /target
 java -jar xxx.jar
 ```
+
+## OpenAPI
+
+to check swagger and asuming the application is running locally, open a web browser and paste
+
+`http://localhost:8080/swagger-ui/index.html`
